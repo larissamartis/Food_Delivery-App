@@ -35,7 +35,7 @@ The flow also includes onboarding, authentication, notifications, and delivery t
 
 
 ## 📸 Preview
-![Food Delivery App Screens](assets/screenshots/food-delivery-preview.png)
+![Food Delivery App Screens](Food_delivery_app.png)
 
 
 
